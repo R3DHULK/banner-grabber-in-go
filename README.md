@@ -34,7 +34,7 @@ git clone https://github.com/R3DHULK/banner-grabber-in-golang
 cd banner-grabber-in-golang
 
 # Run This Tool To Grab Banner
-go banner-grabber.go <target domain name> <targetted port>
+go run banner-grabber.go <target domain name> <targetted port>
 
 ```
 #
